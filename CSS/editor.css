@@ -1,0 +1,172 @@
+body {
+    background-image: url(https://images.pexels.com/photos/804269/pexels-photo-804269.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+
+
+
+
+.box {
+    width: 70%;
+    float: left;
+    margin-left: 10px;
+}
+
+.box h1 {
+
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(173, 173, 255);
+
+}
+
+.box h4 {
+
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(173, 173, 255);
+    margin: 0%;
+    font-style: oblique;
+
+}
+
+
+
+
+/* navigation bar setting */
+
+.site-nav li {
+
+    list-style: none;
+    float: left;
+    
+    margin-right: 30px;
+    margin-bottom: 0%;
+
+
+
+
+
+}
+
+
+
+
+.site-nav a {
+    display: block;
+    text-decoration: none;
+   
+  
+
+
+
+
+
+    color: white;
+}
+
+.site-nav a :hover {
+
+
+
+    color: black;
+
+
+
+}
+
+
+/* navigation bar setting end */
+
+/* search bar */
+
+.search_bar {
+
+    margin-top: 10px;
+    text-align: center;
+
+
+
+
+}
+
+
+.search_bar input[type=text] {
+
+    margin-top: 15px;
+    text-align: center;
+
+    border-radius: 20px;
+    padding-right: 70px;
+
+
+
+
+}
+
+/* search bar end */
+
+
+
+.intro1 {
+    width: 40%;
+    float: left;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.intro2 {
+    width: 40%;
+    float: left;
+}
+
+.fix {
+    clear: both;
+}
+
+
+.end {
+
+    text-align: center;
+    font-size: 60%;
+    font-style: italic;
+    background-color: teal;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    font-size: larger;
+
+    width: 100%;
+}
+
+p {
+    color: rgb(118, 92, 215);
+    margin-left: 20%;
+
+    text-decoration: ;
+    border: 5px solid rgb(118, 92, 215);
+    font-size: xx-large;
+    font-style: oblique;
+    background-color: rgba(37, 27, 27, 0.8);
+    padding: 5px;
+    width: 60%;
+    border-radius: 20px;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
